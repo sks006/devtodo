@@ -1,0 +1,1 @@
+pub const TASK_SEED: &str = "task";
